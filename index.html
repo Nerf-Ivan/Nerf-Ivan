@@ -1,110 +1,81 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Ivan resume</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta charset="UTF-8"/>
-    <link rel="stylesheet" href="style.css">
-    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Welcome</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
 
-    
-  </head>
-  
-  <body>
-    <header class="header">
-      <a href="#" class="logo"><span>Iv</span>an</a>
-      <nav class="navbar">
-        <a href="#" class="active">Portfolio</a> |
-        <a href="#">Services</a> |
-        <a href="#">Experience</a> |
-        <a href="#">Projects</a>
-        <a href="#">Education</a>
-      </nav>
-      <a href="#" class="contact">Contact Me</a>
-    </header>
-    <section class="home">
+    body {
+      height: 100vh;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(to right, #4facfe, #00f2fe);
+    }
 
-      <div class="home-content">
-          <h3>Hi</h3>
+    .card {
+      background: white;
+      padding: 40px;
+      border-radius: 16px;
+      box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      animation: fadeIn 1s ease forwards;
+    }
 
-          <h1>I'm <span>Ivan<br></span>an aspiring Software Engineer</h1>
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis ipsum quod dolore. Nam, quod, hic nisi doloremque expedita necessitatibus eius deleniti deserunt, labore quibusdam ut temporibus voluptatem corporis blanditiis fugiat.</p>
+    .card h1 {
+      font-size: 2em;
+      margin-bottom: 10px;
+      color: #333;
+    }
 
-          <div class="btn-box">
-            <button class="btn-1">Hire Me</button>
-            <button class="btn-2">Experience</button>
+    .card p {
+      font-size: 1.1em;
+      color: #555;
+      margin-bottom: 20px;
+    }
 
-          </div>
-      </div>
-      <div class="img-box">
-        <img src="" alt="">
-      </div>
-    </section>
-    
-    <section class="about">
-      <div class="about-img">
-        <img src="" alt="">
-      </div>
-      <div class="about-content">
-        <h2 class="heading">About <span>Me</span></h2>
-        <h3>Software <span>Engineer</span></h3>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt, veniam eos non quidem consequatur in recusandae nihil laborum doloremque. Voluptatibus, nobis! Dolor, minus. Deserunt repudiandae eius voluptatem reiciendis odio quis.</p>
-        <a href="#" class="btn-2">Experience</a>
-      </div>
-    </section>
+    .card button {
+      padding: 12px 24px;
+      font-size: 1em;
+      background-color: #4facfe;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.3s ease;
+    }
 
-    <section class="contact-form">
-      <h2 class="contact-me">Contact <span>Me</span></h2>
+    .card button:hover {
+      background-color: #00c3ff;
+    }
 
-      <form action="#">
+    @keyframes fadeIn {
+      from { opacity: 0; transform: scale(0.95); }
+      to { opacity: 1; transform: scale(1); }
+    }
+  </style>
+</head>
+<body>
 
-        <div class="input-box">
-          <input type="text" placeholder="Full Name">
-          <input type="email" placeholder="Email">
-        </div>
+  <div class="card">
+    <h1>Welcome to My Website</h1>
+    <p>Your journey into my projects begins here!</p>
+    <button onclick="redirectUser()">Enter</button>
+  </div>
 
-        <div class="input-box">
-          <input type="number" placeholder="Phone number">
-          <input type="text" placeholder="Subject">
-        </div>
-        
-        <textarea name="" id="" cols="30" rows="10" placeholder="Your Message"></textarea>
-        <input type="submit" value="Send Message" class="btn-1">
+  <script>
+    function redirectUser() {
+      // Change this link to your desired destination:
+      window.location.href = "https://ivan-personal-website.onrender.com";
+    }
+  </script>
 
-
-      </form>
-
-
-    </section>
-
-    <footer class="footer">
-
-      <div class="social">
-        <a href="#"><i class='bx bxl-facebook-circle'></i></a>
-        <a href="#"><i class='bx bxl-instagram-alt' ></i></a>
-        <a href="#"><i class='bx bxl-linkedin-square'></i></a>
-        <a href="#"><i class='bx bxl-github' ></i></a>
-      </div>
-
-      <ul class="list">
-        <li>
-          <a href="#">FAQ</a>
-        </li>
-        <li>
-          <a href="#">Services</a>
-        </li>
-        <li>
-          <a href="#">About Me</a>
-        </li>
-        <li>
-          <a href="#">Contact</a>
-        </li>
-        <li>
-          <a href="#">Privacy Policy</a>
-        </li>
-      </ul>
-      <p class="copyright">© 2025 Ivan | All Rights Reserved</p>
-    </footer>
-
-  </body>
+</body>
 </html>
