@@ -9,7 +9,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=nerf-ivan&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/📖_Coursera-IBM%20Full%20Stack-0052CC?style=for-the-badge&logo=coursera&logoColor=white" alt="IBM Full Stack" />
-  <img src="https://img.shields.io/badge/🚀_Status-Building%20Portfolio-00D4AA?style=for-the-badge" alt="Building Portfolio" />
+  <img src="https://img.shields.io/badge/🚀_Status-Building%20Projects-00D4AA?style=for-the-badge" alt="Building Projects" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
