@@ -172,7 +172,7 @@ Project Pipeline:
 
 ### 💻 **Programming Languages**
 ```yaml
-C Programming (CS50x):
+C Programming:
   - Memory management (malloc, free)
   - Pointers and arrays
   - Data structures (linked lists, hash tables)
@@ -315,7 +315,7 @@ Professional Development:
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%" />
 </div>
 
-## 📊 **GitHub Analytics & Performance**
+## 📊 **GitHub Analytics & Coding Activity**
 
 <div align="center">
 
@@ -327,15 +327,22 @@ Professional Development:
 <img src="https://github-readme-stats.vercel.app/api?username=Nerf-Ivan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nerf-Ivan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?username=Nerf-Ivan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
+
+### **📈 WakaTime Coding Activity**
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=NerfIvan&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerf-Ivan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 ### **🏆 GitHub Achievements**
 <img src="https://github-profile-trophy.vercel.app/?username=Nerf-Ivan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+
+### **⏰ Weekly Development Breakdown**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
@@ -397,6 +404,9 @@ Professional Development:
 </a>
 <a href="https://github.com/Nerf-Ivan" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://wakatime.com/@NerfIvan" target="_blank">
+<img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" />
 </a>
 </p>
 
