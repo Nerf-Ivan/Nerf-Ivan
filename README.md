@@ -333,18 +333,20 @@ Professional Development:
 </table>
 
 ### **📈 WakaTime Coding Activity**
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=NerfIvan&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+<!--START_SECTION:waka-->
+<!--WakaTime stats will automatically be inserted here-->
+<!--END_SECTION:waka-->
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=NerfIvan&theme=tokyonight&hide_border=true&layout=compact&range=last_7_days" alt="WakaTime Stats" />
+
+### **💻 Top Languages**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nerf-Ivan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 ### **🏆 GitHub Achievements**
 <img src="https://github-profile-trophy.vercel.app/?username=Nerf-Ivan&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 
-### **⏰ Weekly Development Breakdown**
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
+### 📅 Coding Time Calendar (Heatmap)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nerf-Ivan&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&hide_border=true" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%" />
