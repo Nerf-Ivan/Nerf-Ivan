@@ -2,7 +2,7 @@ name: WakaTime Readme Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Daily at midnight UTC
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -29,6 +29,12 @@ jobs:
           SHOW_SHORT_INFO: "true"
           SHOW_UPDATED_DATE: "true"
           COMMIT_BY_ME: "true"
+          COMMIT_MESSAGE: "Updated with Dev Metrics"
+          COMMIT_SINGLE: "false"
+          LOCALE: "en"
+          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
+          SYMBOL_VERSION: "1"
+          DEBUG_LOGGING: "1"
 
 
 
