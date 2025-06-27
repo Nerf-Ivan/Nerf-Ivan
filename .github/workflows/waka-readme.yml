@@ -28,8 +28,7 @@ jobs:
           SHOW_LOC_CHART: "true"
           SHOW_SHORT_INFO: "true"
           SHOW_UPDATED_DATE: "true"
-          # ❌ Explicitly disable the profile views to prevent crash
-          SHOW_PROFILE_VIEWS: "false"
+          COMMIT_BY_ME: "true"
 
 
 
