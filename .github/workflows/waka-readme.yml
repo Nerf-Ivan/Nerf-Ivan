@@ -1,30 +1,43 @@
+# .github/workflows/waka-readme.yml
 name: WakaTime Readme Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # every day at midnight UTC
+    - cron: "0 0 * * *"   # daily at midnight UTC
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Update WakaTime stats
         uses: wakatime/waka-readme-stats@v1.1.1
         with:
           # your secrets:
           wkt_api_key: ${{ secrets.WAKATIME_API_KEY }}
-          # metrics you want to show:
-          show_total: true
-          show_languages: true
-          show_editors: true
-          show_projects: true
-          show_os: true
-          show_timezones: true
-          show_commits: true
-          show_days_of_week: true
-          show_language_percentages: true
-          show_locations: true
+          gh_token:       ${{ secrets.GH_TOKEN }}
+
+          # pick the metrics you want:
+          show_total:            true
+          show_languages:        true
+          show_editors:          true
+          show_projects:         true
+          show_os:               true
+          show_timezones:        true
+          show_commits:          true
+          show_days_of_week:     true
+          show_language_percent: true
+          show_loc_chart:        true
+          show_short:            true
+          show_updated_at:       true
+
+          # commit options:
+          commit_message:        "chore: update waka stats"
+          commit_name:           "github-actions[bot]"
+          commit_email:          "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_single:         true
+
 
 
 
