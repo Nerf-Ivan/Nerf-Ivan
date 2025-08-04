@@ -45,9 +45,9 @@ const ivan: Developer = {
     "IBM Full Stack Software Engineer Professional Certificate",
     "Self-taught Programming Enthusiast"
   ],
-  techStack: ["C", "Python", "JavaScript", "React", "Node.js", "SQL"],
-  hobbies: ["Gaming 🎮", "Tech Podcasts 🎧", "Open Source 💻", "Gym 💪"],
-  currentlyLearning: ["System Design", "DevOps", "Advanced React Patterns"],
+  techStack: ["C", "Python", "JavaScript", "React", "Node.js", "SQL", "Django", "Cloud Development"],
+  hobbies: ["Gaming 🎮", "Open Source 💻", "Gym 💪"],
+  currentlyLearning: ["System Design", "DevOps", "Advanced React Patterns", "Django", "Kubernetes"],
   funFact: "I debug with console.log and I'm not ashamed! 😄",
   lifePhilosophy: "Code is poetry written in logic 🎭"
 };
@@ -67,15 +67,14 @@ const ivan: Developer = {
 ### 🎨 **Personal Portfolio Website**
 ```yaml
 Tech Stack:
-  Frontend: React + Tailwind CSS
+  Frontend: React + Modular CSS
   Features:
     - Modern responsive design
     - Interactive components
-    - Dark/Light theme toggle
     - Project showcase
     - Contact forms
   Purpose: Complete personal branding platform
-  Status: 🚧 In Active Development
+  Status: Done, view at: https://ivan-swanepoel.fly.dev
 ```
 
 ### 📚 **Current Learning Focus**
@@ -84,6 +83,9 @@ Tech Stack:
 - **DevOps with Docker** ⚙️
 - **Database Optimization** 🗄️
 - **Cloud Deployment Strategies** ☁️
+- **Django**
+- **Containerization**
+- **Docker**
 
 </td>
 <td width="50%" valign="top">
@@ -95,9 +97,9 @@ Project Pipeline:
       Tech: React + Node.js + MongoDB
       Features: Payment integration, inventory management
   
-  - Task Management App:
-      Tech: Django + PostgreSQL
-      Features: Team collaboration, real-time updates
+  - Weather App:
+      Tech: Django + PostgreSQL + API
+      Features: View Weather in different regions
   
   - Open Source Contributions:
       Target: React ecosystem libraries
@@ -298,7 +300,6 @@ Technical Skills:
 
 Professional Development:
   - Portfolio building
-  - Resume optimization
   - GitHub collaboration
   - Technical interview preparation
   - Self-directed learning
