@@ -41,13 +41,14 @@ const ivan: Developer = {
   location: "Johannesburg, South Africa 🇿🇦",
   currentRole: "Aspiring Full-Stack Software Engineer",
   education: [
+    "Eduvos BSc Computer Science degree (currently enrolled)",
     "Harvard CS50x Computer Science Graduate",
     "IBM Full Stack Software Engineer Professional Certificate",
     "Self-taught Programming Enthusiast"
   ],
-  techStack: ["C", "Python", "JavaScript", "React", "Node.js", "SQL", "Django", "Cloud Development"],
+  techStack: ["C","C++", "Python", "JavaScript", "React", "Node.js", "SQL", "Django", "Cloud Development"],
   hobbies: ["Gaming 🎮", "Open Source 💻", "Gym 💪"],
-  currentlyLearning: ["System Design", "DevOps", "Advanced React Patterns", "Django", "Kubernetes"],
+  currentlyLearning: ["C++", "Network & Security", "Soft Skills", "Back-end", "Linux"],
   funFact: "I debug with console.log and I'm not ashamed! 😄",
   lifePhilosophy: "Code is poetry written in logic 🎭"
 };
@@ -78,12 +79,12 @@ Tech Stack:
 ```
 
 ### 📚 **Current Learning Focus**
-- **Advanced React Patterns** 📘
+- **C++** 📘
 - **System Design Fundamentals** 🏗️
 - **DevOps with Docker** ⚙️
 - **Database Optimization** 🗄️
 - **Cloud Deployment Strategies** ☁️
-- **Django**
+- **Network Security**
 - **Containerization**
 - **Docker**
 
