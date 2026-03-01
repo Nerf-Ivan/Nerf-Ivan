@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&height=70&lines=Full-Stack+Software+Engineer;Building+Tomorrow's+Solutions;South+African+Tech+Enthusiast;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
-### 🚀 **Aspiring Software Engineer** | **Full-Stack Enthusiast** | **South African** 🇿🇦
+###  **Aspiring Software Engineer** | **Full-Stack Enthusiast** | **South African** 🇿🇦
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -33,7 +33,6 @@ interface Developer {
   hobbies: string[];
   currentlyLearning: string[];
   funFact: string;
-  lifePhilosophy: string;
 }
 
 const ivan: Developer = {
@@ -49,8 +48,7 @@ const ivan: Developer = {
   techStack: ["C","C++", "Python", "JavaScript", "React", "Node.js", "SQL", "Django", "Cloud Development"],
   hobbies: ["Gaming 🎮", "Open Source 💻", "Gym 💪"],
   currentlyLearning: ["C++", "Network & Security", "Soft Skills", "Back-end", "Linux"],
-  funFact: "I debug with console.log and I'm not ashamed! 😄",
-  lifePhilosophy: "Code is poetry written in logic 🎭"
+  funFact: "I debug with console.log and I'm not ashamed!",
 };
 ```
 
@@ -93,26 +91,13 @@ Tech Stack:
 
 ### 🚀 **Upcoming Projects**
 ```yaml
-Project Pipeline:
-  - E-commerce Platform:
-      Tech: React + Node.js + MongoDB
-      Features: Payment integration, inventory management
-  
   - Weather App:
       Tech: Django + PostgreSQL + API
       Features: View Weather in different regions
-  
-  - Open Source Contributions:
-      Target: React ecosystem libraries
-      Goal: Give back to the community
 ```
 
-### 🎯 **2025 Goals**
-- [ ] Master React.js fundamentals
-- [ ] Land my first software engineering role
-- [ ] Contribute to 3 open source projects
-- [ ] Build and deploy 5 full-stack applications
-- [ ] Master containerization with Docker
+### 🎯 **2026 Goals**
+- [ ] Survive First year Computer Science
 
 </td>
 </tr>
@@ -160,158 +145,6 @@ Project Pipeline:
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🎓 **Education & Skills Breakdown**
-
-<details>
-<summary><b>🔥 Click to explore my comprehensive skill set from CS50x & Professional Training</b></summary>
-
-<br>
-
-<div align="center">
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 💻 **Programming Languages**
-```yaml
-C Programming:
-  - Memory management (malloc, free)
-  - Pointers and arrays
-  - Data structures (linked lists, hash tables)
-  - Algorithms (sorting, searching)
-  - GCC compilation, Makefiles
-
-Python:
-  - Flask micro-framework
-  - Django full-stack framework
-  - Backend API development
-  - Database integration
-
-JavaScript:
-  - Vanilla JavaScript (ES6+)
-  - DOM manipulation
-  - Event handling
-  - Asynchronous programming
-```
-
-</td>
-<td width="33%" valign="top">
-
-### 🎨 **Frontend Development**
-```yaml
-Core Technologies:
-  - HTML5 (semantic markup, forms)
-  - CSS3 (Flexbox, Grid, animations)
-  - Responsive Design (mobile-first)
-  - Bootstrap (component library)
-
-Modern Frameworks:
-  - React.js (components, hooks, state)
-  - Tailwind CSS (utility-first styling)
-  
-Advanced Concepts:
-  - Component architecture
-  - State management
-  - Event handling
-  - Performance optimization
-```
-
-</td>
-<td width="33%" valign="top">
-
-### ⚙️ **Backend & Databases**
-```yaml
-Backend Frameworks:
-  - Flask (Python micro-framework)
-  - Django (full-featured Python)
-  - Node.js (JavaScript runtime)
-  - Express.js (web server framework)
-
-Database Management:
-  - SQL (PostgreSQL, MySQL)
-  - NoSQL (MongoDB)
-  - Query optimization
-  - Schema design
-  - CRUD operations
-
-API Development:
-  - REST API design
-  - MVC pattern implementation
-  - Authentication & authorization
-```
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### ☁️ **DevOps & Cloud**
-```yaml
-Version Control:
-  - Git (branching, merging)
-  - GitHub (collaboration, workflows)
-
-Containerization:
-  - Docker (container basics)
-  - CI/CD pipeline concepts
-
-Cloud Platforms:
-  - IBM Cloud deployment
-  - Cloud Foundry (PaaS)
-  - Local to cloud deployment
-
-Security:
-  - HTTPS & SSL basics
-  - Environment variables
-  - Input validation
-  - Secure coding practices
-```
-
-</td>
-<td width="33%" valign="top">
-
-### 🏗️ **Computer Science Fundamentals**
-```yaml
-CS50x Core Concepts:
-  - Binary, hexadecimal systems
-  - Recursion and abstraction
-  - Memory management
-  - Data structures
-  - Algorithm analysis
-
-Software Engineering:
-  - Agile methodology
-  - Scrum practices
-  - Code debugging and testing
-  - Technical documentation
-  - Project planning
-```
-
-</td>
-<td width="33%" valign="top">
-
-### 🎯 **Soft Skills & Career Prep**
-```yaml
-Technical Skills:
-  - Problem-solving approach
-  - Critical thinking
-  - Code review practices
-  - Technical communication
-
-Professional Development:
-  - Portfolio building
-  - GitHub collaboration
-  - Technical interview preparation
-  - Self-directed learning
-```
-
-</td>
-</tr>
-</table>
-</div>
-
-</details>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%" />
@@ -420,66 +253,24 @@ Professional Development:
 
 ### **🎯 Currently Seeking**
 ```yaml
-Position: Junior Full-Stack Developer
-Location: Remote/Hybrid/Johannesburg
+Position: Junior Full-Stack Developer / Internship
+Location: Remote/Hybrid
 Focus Areas:
   - React & Modern Frontend
   - Python/Node.js Backend
   - Database Design & Management
   - Cloud Deployment & DevOps
 ```
-
-</td>
-<td align="center" width="50%">
-
-### **🤝 Open to Collaborate On**
-```yaml
-Project Types:
-  - React/JavaScript Applications
-  - Python Flask/Django Projects
-  - Full-Stack Web Applications
-  - Open Source Contributions
-  - Learning & Mentorship
-```
-
-</td>
 </tr>
 </table>
-
-### **🎭 Fun Developer Facts**
-<details>
-<summary><b>Click to reveal some fun facts about me!</b></summary>
-
-<br>
-
-- 🐛 **My debugging journey**: Started with `printf()` in C, evolved to `console.log()` in JavaScript
-- ☕ **Coffee preference**: `while (coding) { coffee++; }`
-- 🎮 **Gaming helps coding**: Strategy games taught me to think in systems and algorithms
-- 📚 **Learning philosophy**: Break it first, then figure out how it works
-- 🌙 **Peak coding hours**: 10 PM - 2 AM (when the world is quiet)
-- 🎯 **CS50x impact**: "This was CS50" - changed my entire perspective on problem-solving
-- 🤖 **On AI**: "AI is a tool that makes good developers better, not a replacement for thinking"
-- 🏃‍♂️ **Gym coding connection**: Physical exercise = mental clarity for complex problems
-
-</details>
-
-### **💬 Random Dev Quote**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
 </div>
-
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling" width="100%" />
 
-**"The best way to learn programming is to write programs."** - *CS50x Wisdom*
-
-Ready to turn ideas into code - let's build something amazing together! 🚀
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**Made with ❤️ and lots of ☕ by Ivan Swanepoel**
 
 </div>
