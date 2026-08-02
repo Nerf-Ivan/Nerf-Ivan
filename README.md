@@ -169,7 +169,18 @@ Tech Stack:
 
 ### **📈 WakaTime Coding Activity**
 <!--START_SECTION:waka-->
-<!--WakaTime stats will automatically be inserted here-->
+
+```txt
+From: 25 July 2026 - To: 01 August 2026
+
+Total Time: 2 hrs 38 mins
+
+C++        2 hrs 22 mins         ██████████████████████▒░░   89.59 %
+Markdown   14 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+JSON       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Text       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+```
+
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NerfIvan&theme=tokyonight&hide_border=true&layout=compact&range=last_7_days" alt="WakaTime Stats" />
