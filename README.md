@@ -171,15 +171,13 @@ Tech Stack:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
-Total Time: 5 hrs 39 mins
+Total Time: 4 hrs 20 mins
 
-C++          5 hrs 14 mins         ███████████████████████░░   92.65 %
-Markdown     22 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-JSON         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+C++          3 hrs 57 mins         ███████████████████████░░   91.37 %
+Markdown     22 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
