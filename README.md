@@ -171,18 +171,17 @@ Tech Stack:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2026 - To: 10 August 2026
+From: 05 August 2026 - To: 12 August 2026
 
-Total Time: 3 hrs 8 mins
+Total Time: 1 hr 13 mins
 
-C++          1 hr 52 mins          ███████████████░░░░░░░░░░   59.36 %
-Markdown     35 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
-JavaScript   15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-TypeScript   10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-JSON         10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-TSConfig     2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Git Config   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Markdown     30 mins               ██████████▒░░░░░░░░░░░░░░   41.34 %
+JavaScript   17 mins               ██████░░░░░░░░░░░░░░░░░░░   23.57 %
+TypeScript   10 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
+JSON         10 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+TSConfig     2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Git Config   1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+CSS          0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
