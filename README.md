@@ -171,13 +171,11 @@ Tech Stack:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2026 - To: 30 August 2026
+From: 25 August 2026 - To: 01 September 2026
 
-Total Time: 3 hrs 23 mins
+Total Time: 1 hr 3 mins
 
-C++        3 hrs 19 mins         ████████████████████████▒   97.92 %
-JSON       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Markdown   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+C++   1 hr 3 mins           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
