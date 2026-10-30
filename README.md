@@ -171,15 +171,14 @@ Tech Stack:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2026 - To: 27 October 2026
+From: 22 October 2026 - To: 29 October 2026
 
-Total Time: 1 hr 47 mins
+Total Time: 1 hr 43 mins
 
-TypeScript    1 hr 25 mins          ████████████████████░░░░░   79.77 %
-CSS           19 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
-JavaScript    1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Markdown      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Image (svg)   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TypeScript   1 hr 21 mins          ███████████████████▓░░░░░   79.05 %
+CSS          19 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
+JavaScript   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
